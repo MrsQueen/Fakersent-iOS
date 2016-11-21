@@ -1,6 +1,6 @@
-Fakersent for iOS
+Fakersent👑 for iOS
 ------------------------------------------------
-__thanks 4 putting source for a noob to learn a little__
+__Sending unlimited spoofed messages__
 
 ## I've used these:
 
