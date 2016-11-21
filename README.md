@@ -1,9 +1,8 @@
-# Fakersent-iOS
-The one and only tool for sending spoof messages: 
+# Fakersent for iOS: 
 ------------------------------------------------
-__thanks 4 putting source for a noob to learn a little__
+__The one and only tool for sending unlimited anonymous (spoofed messages)__
 
-## I've used these:
+## Where to purchase?:
 
-*   DocSets-for-iOS __and paid 4 it too__ 
-https://github.com/omz/DocSets-for-iOS/
+*   Purchase a license __and tweet me @tahmrs__ 
+http://fakersent.com
