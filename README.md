@@ -1,4 +1,4 @@
-Real iOS Apps in AppStore, with source on GitHub: 
+Fakersent for iOS
 ------------------------------------------------
 __thanks 4 putting source for a noob to learn a little__
 
